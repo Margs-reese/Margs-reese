@@ -47,7 +47,7 @@
 <!-- ============================= -->
 <!--           Tech Stack          -->
 <!-- ============================= -->
-<h2>🧑🏻‍💻Technology Stack</h2>
+<h2>🧰🛠️Technology Stack</h2>
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -59,7 +59,18 @@
 <!-- ============================= -->
 <!--         Github stats          -->
 <!-- ============================= -->
+<hr>
+<hr> <!--    Replace with horizontal border    -->
 
+<h2>📊GitHub Stats Dashboard</h2>
+
+<p align="center">
+  <!-- Left Card: Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Margs-reese&theme=vue-dark&hide_border=true&background=1a1a1a&stroke=c4a6f7&ring=c4a6f7&fire=c4a6f7&currStreakNum=c4a6f7&sideNums=c4a6f7&date_format=M%20j%2C%20Y" width="48%" alt="GitHub Streak" />
+
+  <!-- Right Card: Most Used Languages (Padded to match height) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Margs-reese&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=c4a6f7&text_color=e0e0e0&langs_count=6&card_width=450&pad_padding=125" width="48%" alt="Most Used Languages" />
+</p>
 
 <!-- ============================= -->
 <!--        Featured project       -->
