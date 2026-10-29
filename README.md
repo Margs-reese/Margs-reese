@@ -63,7 +63,7 @@
 <hr> <!--    Replace with horizontal border    -->
 
 <h2>📊GitHub Stats Dashboard</h2>
-
+ 
 <p align="center">
   <!-- Left Card: Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Margs-reese&theme=vue-dark&hide_border=true&background=1a1a1a&stroke=c4a6f7&ring=c4a6f7&fire=c4a6f7&currStreakNum=c4a6f7&sideNums=c4a6f7&date_format=M%20j%2C%20Y" width="48%" alt="GitHub Streak" />
