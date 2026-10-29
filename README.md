@@ -64,7 +64,7 @@
 
 
 <details>
-<summary><h3>📊 Toggle to View My itHub Stats Dashboard</h3></summary>
+<summary><h3>📊 Toggle to View My GitHub Stats Dashboard</h3></summary>
 
 <p align="center">
   <!-- Left Card: Streak Stats -->
