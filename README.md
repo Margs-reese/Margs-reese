@@ -14,13 +14,15 @@
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
 
-</div>
 
->I am a UI/UX designer and Frontend Developer who bridges the gap between high-fidelity prototypes and frontend code, bringing exceptional user interface designs to life. I transform user problems into intuitive, brand-aligned web and mobile applications using Figma, Framer, and modern frontend frameworks.
->
->As the Lead Frontend Developer for Timely (an attendance-monitoring system), I spearheaded our team in redesigning the system, optimizing wireflows, crafting micro-interactions, designing modal alerts, and enforcing UI consistency across the platform.
->
->My design journey is shaped by a passion for multimedia art, continuous research, and relentless learning. This allows me to see the world through a creative lens, approach problem-solving uniquely with high attention to detail, and craft digital products with distinct design ideas that solve real-world problems. Apart from writing code, I'm also an artist and voice talent.
+
+<h5> I am a UI/UX designer and Frontend Developer who bridges the gap between high-fidelity prototypes and frontend code, bringing exceptional user interface designs to life. I transform user problems into intuitive, brand-aligned web and mobile applications using Figma, Framer, and modern frontend frameworks.</h5>
+<!--As the Lead Frontend Developer for Timely (an attendance-monitoring system), I spearheaded our team in redesigning the system, optimizing wireflows, crafting micro-interactions, designing modal alerts, and enforcing UI consistency across the platform. -->
+
+<h5> My design journey is shaped by a passion for multimedia art, continuous research, and relentless learning. This allows me to see the world through a creative lens, approach problem-solving uniquely with high attention to detail, and craft digital products with distinct design ideas that solve real-world problems. Apart from writing code, I'm also an artist and voice talent.</h5>
+
+
+</div>
 <!-- ============================= -->
 <!--        My Expertise           -->
 <!-- ============================= -->
