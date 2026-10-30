@@ -10,7 +10,9 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/margaux-corpus/)
-
+<a href="mailto:corpusmargaux@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
 
 </div>
 
